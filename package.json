@@ -24,6 +24,7 @@
     "electron-updater": "^6.1.7",
     "express": "^4.18.2",
     "glob": "^10.3.10",
+    "koffi": "^2.8.0",
     "semver": "^7.5.4"
   },
   "devDependencies": {

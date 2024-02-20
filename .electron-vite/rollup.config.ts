@@ -82,6 +82,7 @@ export default (env = "production", type = "main") => {
       "axios",
       "electron",
       "express",
+      "koffi",
       "ffi-napi",
       "ref-napi",
       "ref-struct-napi",
